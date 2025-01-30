@@ -1,0 +1,6 @@
+n = int(input('DIGITE UM VALOR: '))
+sus = int(n + 1)
+ant = int(n - 1)
+print ('______________________________')
+print ('analisando o numero {}, o sucessor dele é {} \n e o antecessor dele é {}'.format(n, sus, ant ))
+print ('______________________________')
